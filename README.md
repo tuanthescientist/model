@@ -4,7 +4,7 @@ language:
 tags:
 - sentiment
 - classification
-license: apache-2.0
+license: mit
 widget:
 - text: "Không thể nào đẹp hơn"
 - text: "Quá phí tiền, mà không đẹp"
