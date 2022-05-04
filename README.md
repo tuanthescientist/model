@@ -12,6 +12,8 @@ widget:
 
 ---
 
+[**GitHub Homepage**](https://github.com/wonrax/phobert-base-vietnamese-sentiment)
+
 A model fine-tuned for sentiment analysis based on [vinai/phobert-base](https://huggingface.co/vinai/phobert-base).
 
 Labels:
